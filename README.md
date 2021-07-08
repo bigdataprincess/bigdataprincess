@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigdataprincess
-- 👀 I’m interested in data and product management.
+- 👀 I’m interested in data and product management. Telling fiction stories using tech/data
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on data application dev
 - 📫 How to reach me bigdataprincess@gmail.com or @bigdataprincess on Twitter|Instagram
